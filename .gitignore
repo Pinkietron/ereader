@@ -9,8 +9,8 @@
 /.vs
 *.raw
 *.vpk
-bin
-*.sav
 *.sa2
 *.gba
 .vscode
+/cards/*
+*.zip
